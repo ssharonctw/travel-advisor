@@ -10,3 +10,4 @@ The app utilized Geolocation and Google Maps API to locate users location and su
 
 ## Project Demo
 Project deployed to Github Pages: [Travel Advisor](https://ssharonctw.github.io/travel-advisor/)
+![Demo Image](/doc/Travel Advisor Demo Img.PNG)
